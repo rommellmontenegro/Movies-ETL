@@ -12,6 +12,6 @@
 *As included in the ipynb file*
 
 
-<u>ratings DataFrame DataFrame</u><br>
+<u>ratings DataFrame</u><br>
 ![wiki_movies_df DataFrame Output](https://github.com/rommellmontenegro/Movies-ETL/blob/master/ratings.head()_Output.png "ratings DataFrame")<br>
 *As included in the ipynb file*
